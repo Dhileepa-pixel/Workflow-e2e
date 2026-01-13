@@ -11,7 +11,7 @@ This project is created to automate web application testing using **Playwright**
 ## Prerequisites
 - Node.js installed  
 - npm installed  
-
+ 
 ## Project Setup
 1. Download the project  
 2. Open terminal in the project folder  
@@ -55,4 +55,5 @@ playwright.config.ts   → Playwright configuration
 - Update configuration when browser or environment changes  
 
 ## Author
-QA Automation Project
+Dhileepa Karthikeyan
+
